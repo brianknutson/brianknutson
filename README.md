@@ -14,10 +14,10 @@ I'm passionate about cybersecurity and IT. I love tackling complex challenges th
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/brianknutson/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/brianknutson/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/brianknutson/ticket-lifecycle)
+  - <b>osTicket (Help Desk Ticketing System)</b>
+    - [osTicket: Prerequisites and Installation](https://github.com/brianknutson/osticket-prereqs)
+    - [osTicket: Post-Installation Configuration](https://github.com/brianknutson/post-install-config)
+    - [osTicket: Ticket Lifecycle Examples](https://github.com/brianknutson/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/brianknutson/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/brianknutson/azure-network-protocols)
