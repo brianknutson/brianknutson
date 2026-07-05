@@ -12,6 +12,10 @@ I'm passionate about cybersecurity and IT. I love tackling complex challenges th
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/brianknutson/threat-hunting-scenario-tor)**
 
+## 🔒 STIG Remediation
+
+- **[STIG Remediation](https://github.com/brianknutson/STIG-Remediation)**
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
   - <b>osTicket (Help Desk Ticketing System)</b>
